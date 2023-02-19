@@ -1,0 +1,15 @@
+[[package]]
+name = "python-string-utils"
+version = "1.0.0"
+description = "Utility functions for strings validation and manipulation."
+category = "main"
+optional = false
+python-versions = ">=3.5"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "096534320ddd2ec44469592db66e1d692e0f3fe27b34f5462c63b964cf3721a8"
+
+[metadata.files]
+python-string-utils = []
